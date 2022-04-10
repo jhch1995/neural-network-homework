@@ -5,10 +5,10 @@
 ├── grid_search_parameter.py  
 ├── main.py  
 ├── model_param  
-|   └── jhc_module_param.npy  
+│   └── jhc_module_param.npy  
 ├── plot_image.py  
 ├── __pycache__  
-|   └── plot_image.cpython-39.pyc  
+│   └── plot_image.cpython-39.pyc  
 ├── ReadMe.md  
 └── test.py  
 
