@@ -5,15 +5,19 @@
 ├── grid_search_parameter.py  
 ├── main.py  
 ├── model_param  
-│   └── jhc_module_param.npy  
+|   └── jhc_module_param.npy  
 ├── plot_image.py  
 ├── __pycache__  
-│   └── plot_image.cpython-39.pyc  
+|   └── plot_image.cpython-39.pyc  
 ├── ReadMe.md  
 └── test.py  
+
 ----
+
 **运行环境**  
 pyhton3.9  
+
+----
 
 **文件说明**  
 - main.py 为主要的训练文件，直接运行即可，
@@ -42,6 +46,7 @@ python test.py
 python grid_search_parameter.py
 ```
 
-------
-**模型文件百度云地址**
+-----
+
+**模型文件百度云地址**  
 链接: https://pan.baidu.com/s/1TnFu7QKx2EqejkdCMks5Cg 提取码: cm6k
